@@ -1,4 +1,4 @@
-import models.*
+import model.*
 
 fun main() {
     val dog = Pet().apply {

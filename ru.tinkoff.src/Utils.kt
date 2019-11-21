@@ -1,4 +1,4 @@
-import models.Pet
+import model.Pet
 
 fun Pet.isAdult(): Boolean = this.age >= 2
 

@@ -1,4 +1,4 @@
-package models
+package model
 
 class Cat : Pet() {
     override fun toString(): String {
